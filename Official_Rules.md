@@ -1,3 +1,3 @@
-1.Players take 24 hour turns adding a proposal to the game. A proposal can be changing an existing rule, deleting an existing rule, or making a completely new rule. You may only make 1 proposal on your turn. The player(s) whose turn it is can be found in Turn_Order.  
-2.When a proposal is made, a Game Moderator will add it to Voting. If the rule has more votes for than against after 48 hours of it being in Voting, it will be added to Official_Rules (or other appropriate thing will happen) and it will have an immediate effect from then on.  
-3.The first player to reach 1000 points, wins the game.
+# Players take 24 hour turns adding a proposal to the game. A proposal can be changing an existing rule, deleting an existing rule, or making a completely new rule. You may only make 1 proposal on your turn. The player(s) whose turn it is can be found in Turn_Order.  
+# When a proposal is made, a Game Moderator will add it to Voting. If the rule has more votes for than against after 48 hours of it being in Voting, it will be added to Official_Rules (or other appropriate thing will happen) and it will have an immediate effect from then on.  
+# The first player to reach 1000 points, wins the game.
