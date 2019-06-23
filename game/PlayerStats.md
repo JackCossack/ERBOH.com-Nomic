@@ -1,14 +1,14 @@
 **Kubby**  
-Points: 5
+Points: 10
 
 **Poles**  
-Points: 5
+Points: 10
 
 **Juiz**  
-Points: 5
+Points: 10
 
 **YellowNerd**  
-Points: 5
+Points: 10
 
 **Log**  
-Points: 5
+Points: 10
