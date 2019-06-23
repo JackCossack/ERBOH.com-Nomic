@@ -7,5 +7,5 @@ Votes against: 1
 
 YellowNerd's proposal: **Every 7th day, each player gets a number of points equal to a result of a six-sided die roll.**  
 Voting ends on 2019-06-24, on 8:00 AM Polish time.  
-Votes for: 0  
+Votes for: 1  
 Votes against: 1
