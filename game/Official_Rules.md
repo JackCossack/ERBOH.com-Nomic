@@ -2,3 +2,4 @@
 2. When a proposal is made, a Game Moderator will add it to Voting.md file. If the rule has more votes for than against after 48 hours of it being in Voting.md file, it will be added to Official_Rules.md file (or other appropriate thing will happen) and it will have an immediate effect from then on.  
 3. The first player to reach 1000 points, wins the game.
 4. Every player gets 5 points each day.
+5. Lynching Sam is worth 400 points.
