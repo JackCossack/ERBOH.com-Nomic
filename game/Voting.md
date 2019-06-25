@@ -6,5 +6,5 @@ Kubby's proposal:
 **The initial position of every new player and of every player already in the game at the time of this rule passing is (0, 0).
 Every turn, each player can make up to two moves to an adjacent grid cell.**  
 Voting ends on 2019-06-26, on 8:24 AM Polish time.  
-Votes for: 2  
+Votes for: 4  
 Votes against: 0
