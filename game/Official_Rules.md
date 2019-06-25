@@ -3,3 +3,4 @@
 3. The first player to reach 1000 points, wins the game.
 4. Every player gets 5 points each day.
 5. Lynching Sam is worth 400 points.
+6. If a players proposal is denied in a vote of 3-2, then they receive 10 points.
