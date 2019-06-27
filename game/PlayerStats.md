@@ -16,4 +16,4 @@ Position: (0,0)
 
 **Log**  
 Points: 30
-Position: (0,0)
+Position: (-1,-1)
