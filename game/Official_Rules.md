@@ -4,6 +4,5 @@
 4. Every player gets 5 points each day.
 5. Lynching Sam is worth 400 points.
 6. If a players proposal is denied in a vote of 3-2, then they receive 10 points.
-7. This rule introduces a concept of the game map. The map is a hexagonal grid with coordinates, currently depicted here: https://docs.google.com/spreadsheets/d/1fnVLqLqNQ7iVAQXp_1oJd-I862wmSnIG4uE16uOJ5AM/edit?usp=sharing . This map is an extension to this rule, and any game-mechanic relevant changes to it (as opposed to purely-aesthetic, or game-state-tracking changes) counts as a change to this rule.
-
+7. This rule introduces a concept of the game map. The map is a hexagonal grid with coordinates, currently depicted here: https://docs.google.com/spreadsheets/d/1fnVLqLqNQ7iVAQXp_1oJd-I862wmSnIG4uE16uOJ5AM/edit?usp=sharing . This map is an extension to this rule, and any game-mechanic relevant changes to it (as opposed to purely-aesthetic, or game-state-tracking changes) counts as a change to this rule.  
  The initial position of every new player and of every player already in the game at the time of this rule passing is (0, 0). Every turn, each player can make up to two moves to an adjacent grid cell.
