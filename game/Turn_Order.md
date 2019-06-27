@@ -1,9 +1,9 @@
 Current Player: **Poles**  
-(turn began on 2019-06-25, 06:46 AM Polish time, ends on 2019-06-26, 06:46 AM Polish time)
+(turn began on 2019-06-27, 07:20 AM Polish time, ends on 2019-06-27, 07:20 AM Polish time)
 
 Turn Order: *(Checkmark indicates current player)*
-- [x] Poles
-- [ ] Log
+- [ ] Poles
+- [x] Log
 - [ ] YellowNerd
 - [ ] Juiz
 - [ ] Kubby
