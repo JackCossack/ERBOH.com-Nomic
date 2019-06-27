@@ -1,14 +1,19 @@
 **Kubby**  
-Points: 20
+Points: 30
+Position: (2,0)
 
 **Poles**  
-Points: 20
+Points: 30
+Position: (0,0)
 
 **Juiz**  
-Points: 20
+Points: 30
+Position: (0,0)
 
 **YellowNerd**  
-Points: 20
+Points: 30
+Position: (0,0)
 
 **Log**  
-Points: 20
+Points: 30
+Position: (0,0)
