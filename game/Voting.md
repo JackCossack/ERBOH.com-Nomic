@@ -9,5 +9,5 @@ Votes against: 0
 YN's proposal:  
 **A player cannot use a space if they have left it before.**  
 Voting ends on 2019-06-30, on 6:16 PM Polish time.  
-Votes for: 1  
+Votes for: 2  
 Votes against: 0
