@@ -1,6 +1,6 @@
 **Kubby**  
 Points: 40  
-Position: (2,0)
+Position: (3,-2)
 
 **Poles**  
 Points: 40  
