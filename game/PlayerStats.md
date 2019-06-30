@@ -15,5 +15,5 @@ Points: 45
 Position: (-1,-1)
 
 **Log**  
-Points: 40  
+Points: 45  
 Position: (-1,-1)
