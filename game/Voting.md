@@ -9,5 +9,5 @@ Votes against: 1
 Juiz' proposal:  
 **This rule introduces an interest system for player's points. For every 10 points a player has, they gain 1 point each day.**  
 Voting ends on 2019-07-01, on 11:17 PM Polish time.  
-Votes for: 0  
-Votes against: 1
+Votes for: 1  
+Votes against: 2
