@@ -7,3 +7,4 @@
 7. This rule introduces a concept of the game map. The map is a hexagonal grid with coordinates, currently depicted here: https://docs.google.com/spreadsheets/d/1fnVLqLqNQ7iVAQXp_1oJd-I862wmSnIG4uE16uOJ5AM/edit?usp=sharing . This map is an extension to this rule, and any game-mechanic relevant changes to it (as opposed to purely-aesthetic, or game-state-tracking changes) counts as a change to this rule.  
  The initial position of every new player and of every player already in the game at the time of this rule passing is (0, 0). Every turn, each player can make up to two moves to an adjacent grid cell.
 8. If two players move to the same space on the game map, they have the option to initiate a duel that awards 52 points to the winner. The duel must be agreed upon by both parties. The terms of the duel are arbitrary as long as both parties agree to them.
+9. A player cannot use a space if they have left it before.
