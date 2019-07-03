@@ -1,7 +1,7 @@
 Proposals in voting:
 
-Poles' proposal:  
-**The player limit shall be set to 10 players maximum.**  
-Voting ends on 2019-07-03, on 08:53 AM Polish time.  
-Votes for: 3  
-Votes against: 0
+YN's proposal:  
+**On the enactment of this rule, every player will be moved 2 spaces to the right.**  
+Voting ends on 2019-07-05, on 06:12 PM Polish time.  
+Votes for: 0  
+Votes against: 1
