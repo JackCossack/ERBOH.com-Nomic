@@ -5,5 +5,6 @@ Turn Order: *(Checkmark indicates current player)*
 - [ ] Poles
 - [x] Log
 - [ ] YellowNerd
+- [ ] Sparts
 - [ ] Juiz
 - [ ] Kubby
