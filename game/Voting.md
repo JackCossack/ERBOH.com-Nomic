@@ -1,7 +1,7 @@
 Proposals in voting:  
 
 Spars' proposal:  
-**Every day, 3 points are given to whoever is in the last place at that time. That is in addition to any other gains.**
+**Every day, 3 points are given to whoever is in the last place at that time. That is in addition to any other gains.**  
 Voting ends on 2019-07-06, on 08:39 AM Polish time.  
 Votes for: 4  
 Votes against: 0
