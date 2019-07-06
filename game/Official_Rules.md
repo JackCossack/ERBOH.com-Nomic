@@ -10,3 +10,4 @@
 9. A player cannot use a space if they have left it before.
 10. Any person that is not a player yet can become one by making a post expressing their will to become one in the game's forum thread. They will then be placed in a random positon in the turn order, and receive a number of points equal to half the median of current players' points, rounded down.
 11. The player limit shall be set to 10 players maximum.
+12. Every day, 3 points are given to whoever is in the last place at that time. That is in addition to any other gains.
