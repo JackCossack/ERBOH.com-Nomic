@@ -5,3 +5,10 @@ Juiz' proposal:
 Voting ends on 2019-07-07, on 07:48 PM Polish time.  
 Votes for: 1  
 Votes against: 0
+
+
+Kubby's proposal:  
+**Every proposal that passes after the enactment of this rule will grant the player who made the proposal 16 points.**  
+Voting ends on 2019-07-08, on 11:38 PM Polish time.  
+Votes for: 1  
+Votes against: 0  
