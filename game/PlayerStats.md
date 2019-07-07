@@ -16,7 +16,8 @@ Position: (-1,-1)
 
 **Log**  
 Points: 80  
-Position: (-3,-2)
+Position: (-1,-3)
+Banned locations (due to rule 9): (-3,-2), (-2,-3)
 
 **Spars**  
 Points: 55  
