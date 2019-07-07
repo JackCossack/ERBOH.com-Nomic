@@ -1,23 +1,23 @@
 **Kubby**  
-Points: 75  
+Points: 80  
 Position: (3,-2)
 
 **Poles**  
-Points: 75  
+Points: 80  
 Position: (0,0)
 
 **Juiz**  
-Points: 85  
+Points: 90  
 Position: (0,0)
 
 **YellowNerd**  
-Points: 75  
+Points: 80  
 Position: (-1,-1)
 
 **Log**  
-Points: 75  
+Points: 80  
 Position: (-3,-2)
 
 **Spars**  
-Points: 47  
+Points: 55  
 Position: (0,0)
