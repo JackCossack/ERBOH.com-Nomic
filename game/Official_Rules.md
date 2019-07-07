@@ -11,3 +11,4 @@
 10. Any person that is not a player yet can become one by making a post expressing their will to become one in the game's forum thread. They will then be placed in a random positon in the turn order, and receive a number of points equal to half the median of current players' points, rounded down.
 11. The player limit shall be set to 10 players maximum.
 12. Every day, 3 points are given to whoever is in the last place at that time. That is in addition to any other gains.
+13. A player can choose, within the time limit of their turn to propose, to willingly skip their proposal, and receive 10 points. The player cannot simply miss their turn and get a pay-out, they have to willingly state on the thread their intention to skip their proposal phase and receive their pay-out, which needs to be done by the time limit of their proposal phase.
