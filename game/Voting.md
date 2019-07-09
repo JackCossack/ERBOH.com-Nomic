@@ -11,3 +11,9 @@ Log's proposal:
 Voting ends on 2019-07-10, on 08:47 PM Polish time.  
 Votes for: 4  
 Votes against: 1
+
+YN's proposal:  
+**If a vote ends in a tie, a player can spend X points for the proposal to gain a vote for or against it.**
+Voting ends on 2019-07-11, on 4:06 PM Polish time.
+Votes for: 2  
+Votes against: 2
