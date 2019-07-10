@@ -3,8 +3,8 @@ Explored regions:
 
 | Section               | Claimed by |
 | --------------------- | ---------- |
-| ERBoH Discussion      |            |
-| Fan Made ERBoH's      |            |
+| ERBoH Discussion      | Log        |
+| Fan Made ERBoH's      | Log        |
 | Epic Reviews          |            |
 | Epic Art / Fan Art    |            |
 | Introduce Yourself!   |            |
