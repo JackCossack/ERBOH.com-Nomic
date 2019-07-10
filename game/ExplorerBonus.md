@@ -14,7 +14,7 @@ Explored regions:
 | General Discussion    |            |
 | General Entertainment |            |
 | Writer's Corner       |            |
-| Forum Games           |            |
-| General Help          | Kubby      |
+| Forum Games           | Kubby      |
+| General Help          |            |
 | Spam Central          | Kubby      |
 | Group Graveyard       |            |
