@@ -9,7 +9,8 @@ Position: (0,0)
 
 **Juiz**  
 Points: 105  
-Position: (0,0)
+Position: (2,1)  
+Banned map hexes (due to rule 9): (0,0), (1,1)
 
 **YellowNerd**  
 Points: 95  
