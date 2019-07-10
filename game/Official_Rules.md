@@ -13,3 +13,4 @@
 12. Every day, 3 points are given to whoever is in the last place at that time. That is in addition to any other gains.
 13. A player can choose, within the time limit of their turn to propose, to willingly skip their proposal, and receive 10 points. The player cannot simply miss their turn and get a pay-out, they have to willingly state on the thread their intention to skip their proposal phase and receive their pay-out, which needs to be done by the time limit of their proposal phase.
 14. Every proposal that passes after the enactment of this rule will grant the player who made the proposal 16 points.
+15. If a player moves to a section of the map (excluding the Neutral Area) that no other player has entered after the enactment of this rule, they are awarded 5 points. Players that are already on a hex belonging to a section during the enactment of this rule, they are not treated as having entered the section for the purpose of this rule.
