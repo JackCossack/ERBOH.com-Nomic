@@ -9,7 +9,7 @@ Explored regions:
 | Epic Art / Fan Art    |            |
 | Introduce Yourself!   | Juiz       |
 | Ask Me Anything!      |            |
-| Forum Events          |            |
+| Forum Events          | Juiz       |
 | Site Stuff            |            |
 | General Discussion    | Spars      |
 | General Entertainment | Spars      |
