@@ -11,7 +11,7 @@ Explored regions:
 | Ask Me Anything!      |            |
 | Forum Events          |            |
 | Site Stuff            |            |
-| General Discussion    |            |
+| General Discussion    | Spars      |
 | General Entertainment | Spars      |
 | Writer's Corner       |            |
 | Forum Games           | Kubby      |
