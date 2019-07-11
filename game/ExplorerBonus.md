@@ -17,4 +17,4 @@ Explored regions:
 | Forum Games           | Kubby      |
 | General Help          |            |
 | Spam Central          | Kubby      |
-| Group Graveyard       |            |
+| Group Graveyard       | Kubby      |
