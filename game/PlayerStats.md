@@ -8,7 +8,7 @@ Points: 100
 Position: (0,0)
 
 **Juiz**  
-Points: 115  
+Points: 125  
 Position: (-2,0)  
 Banned map hexes (due to rule 9): (0,0), (-1,0)
 
@@ -18,10 +18,10 @@ Position: (-1,-1)
 
 **Log**  
 Points: 126  
-Position: (-2,-1)  
-Banned map hexes (due to rule 9): (-3,-2), (-2,-3), (-1,-3), (-2, 2)
+Position: (-3, 1)  
+Banned map hexes (due to rule 9): (-3,-2), (-2,-3), (-1,-3), (-2, 2), (-2,-1), (-3, 0)
 
 **Spars**  
-Points: 92  
-Position: (0,2)  
-Banned map hexes (due to rule 9): (0,0), (0,1)
+Points: 97  
+Position: (1,3)  
+Banned map hexes (due to rule 9): (0,0), (0,1), (0, 2), (0, 3)
