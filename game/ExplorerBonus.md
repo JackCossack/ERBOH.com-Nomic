@@ -7,12 +7,12 @@ Explored regions:
 | Fan Made ERBoH's      | Log        |
 | Epic Reviews          |            |
 | Epic Art / Fan Art    |            |
-| Introduce Yourself!   |            |
+| Introduce Yourself!   | Juiz       |
 | Ask Me Anything!      |            |
 | Forum Events          |            |
 | Site Stuff            |            |
 | General Discussion    |            |
-| General Entertainment |            |
+| General Entertainment | Spars      |
 | Writer's Corner       |            |
 | Forum Games           | Kubby      |
 | General Help          |            |
