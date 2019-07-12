@@ -15,6 +15,6 @@ Explored regions:
 | General Entertainment | Spars      |
 | Writer's Corner       |            |
 | Forum Games           | Kubby      |
-| General Help          |            |
+| General Help          | Kubby      |
 | Spam Central          | Kubby      |
 | Group Graveyard       | Kubby      |
