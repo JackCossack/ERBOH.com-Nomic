@@ -1,7 +1,7 @@
 **Kubby**  
-Points: 120  
-Position: (2,-4)  
-Banned map hexes (due to rule 9): (3,-2), (2,-2), (2,-3), (1, -4)
+Points: 125  
+Position: (4,-3)  
+Banned map hexes (due to rule 9): (3,-2), (2,-2), (2,-3), (1, -4), (2,-4), (3,-3)
 
 **Poles**  
 Points: 105  
