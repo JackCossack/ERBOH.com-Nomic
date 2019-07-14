@@ -6,5 +6,5 @@ If, at a beginning of a turn, a player is in a section claimed by them, they can
 If, at a beginning of a turn, a player is in a section claimed by someone else, the Section Influence of a pair between that section and that player is increased by 1.  
 When the Section Influence of a player-section pair reaches 3, and that section is not claimed by that player, the section becomes claimed by that player, and Section Influence of any pair between that section and any other player is set to 0. If two or more players meet this condition for a section, the player the section will become claimed by is randomly chosen from players that meet this condition for the section in question.**  
 Voting ends on 2019-07-14, on 9:00 PM Polish time.  
-Votes for: 2  
+Votes for: 3  
 Votes against: 2
