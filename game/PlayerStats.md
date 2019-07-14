@@ -19,8 +19,8 @@ Position: (-1,-1)
 
 **Log**  
 Points: 151  
-Position: (-3, 3)  
-Banned map hexes (due to rule 9): (-3,-2), (-2,-3), (-1,-3), (-2, 2), (-2,-1), (-3, 0), (-3, 1), (-3, 2)
+Position: (-5, 3)  
+Banned map hexes (due to rule 9): (-3,-2), (-2,-3), (-1,-3), (-2, 2), (-2,-1), (-3, 0), (-3, 1), (-3, 2), (-3, 3), (-4, 3)
 
 **Spars**  
 Points: 136  
