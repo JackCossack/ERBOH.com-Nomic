@@ -5,3 +5,9 @@ Spars' proposal:
 Voting ends on 2019-07-18, on 9:46 PM Polish time.  
 Votes for: 1  
 Votes against: 2
+
+Juiz' proposal:  
+**Each player can gift points to other players, once per turn rotation. A player cannot gift more than half of their current point total.**  
+Voting ends on 2019-07-19, on 8:45 PM Polish time.  
+Votes for: 0
+Votes against: 1
