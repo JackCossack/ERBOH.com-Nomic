@@ -6,7 +6,8 @@ Passed-proposals-in-a-row-count: 1
 
 **Poles**  
 Points: 149  
-Position: (0,0)
+Position: (-1,-1)
+Banned map hexes (due to rule 9): (0,0), (0,-1)
 
 **Juiz**  
 Points: 220  
