@@ -2,7 +2,7 @@ Proposals in voting:
 
 Poles' proposal:  
 **With the enactment of this proposal, player Poles shall be struck from the player list and removed from the game.**  
-Voting ends on 2019-07-24, on 9:43 AM Polish time.  
+Voting ends on 2019-07-24, on 9:43 PM Polish time.  
 Votes for: 1  
 Votes against: 1
 
