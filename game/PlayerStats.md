@@ -3,7 +3,7 @@ Points: 275
 Position: (4,-3)  
 Banned map hexes (due to rule 9): (3,-2), (2,-2), (2,-3), (1, -4), (2,-4), (3,-3)  
 Passed-proposals-in-a-row-count: 2  
-Companion Lil' Sammy (Noose Man)
+Companion: Lil' Sammy (Noose Man)
 
 **Poles**  
 Points: 197  
