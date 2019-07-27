@@ -15,7 +15,7 @@ Points: 308
 Position: (-3,3)  
 Banned map hexes (due to rule 9): (0,0), (-1,0), (-2, 0), (-1,1), (-2, 2), (-2, 3)
 Passed-proposals-in-a-row-count: 0  
-Companion: Carpet Guy (Carpet Monster)
+Companion: Carpet Guy (Carpet Monster)  
 Companion's point balance: 21
 
 **YellowNerd**  
