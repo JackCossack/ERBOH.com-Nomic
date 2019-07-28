@@ -31,8 +31,8 @@ Companion: Mr. Molina (The Crow)
 Companion's point balance: 18
 
 **Spars**  
-Points: 292  
+Points: 308  
 Position: (2,4)  
 Banned map hexes (due to rule 9): (0,0), (0,1), (0, 2), (0, 3), (1, 3), (2, 3)  
-Passed-proposals-in-a-row-count: 1  
+Passed-proposals-in-a-row-count: 2  
 Companion: Billy (Cute Lil' UFO)
