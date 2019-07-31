@@ -6,29 +6,29 @@ Passed-proposals-in-a-row-count: 0
 Companion: Lil' Sammy (Noose Man, 120/120 HP)
 
 **Poles**  
-Points: 245  
+Points: 242  
 Position: (-1,-1)  
 Banned map hexes (due to rule 9): (0,0), (0,-1)
 
 **Juiz**  
-Points: 354  
+Points: 227  
 Position: (-3,3)  
 Banned map hexes (due to rule 9): (0,0), (-1,0), (-2, 0), (-1,1), (-2, 2), (-2, 3)
 Passed-proposals-in-a-row-count: 2  
 Companion: Carpet Guy (Carpet Monster, 120/120 HP)  
-Companion's point balance: 21
+Companion's point balance: 151
 
 **YellowNerd**  
 Points: 287  
 Position: (-1,-1)
 
 **Log**  
-Points: 420  
+Points: 416  
 Position: (-5, 3)  
 Banned map hexes (due to rule 9): (-3,-2), (-2,-3), (-1,-3), (-2, 2), (-2,-1), (-3, 0), (-3, 1), (-3, 2), (-3, 3), (-4, 3)
 Passed-proposals-in-a-row-count: 0  
 Companion: Mr. Molina (The Crow, 120/120 HP)  
-Companion's point balance: 36
+Companion's point balance: 40
 
 **Spars**  
 Points: 347  
