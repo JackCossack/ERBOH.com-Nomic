@@ -23,3 +23,9 @@ Append the following to Rule 25:
 Vote ends on 2019-08-03, on 00:14 AM Polish time.  
 Votes for: 4  
 Votes against: 0  
+
+Juiz' proposal:  
+**If a player shares a space with another player, they can attempt to attack that player's companion. When that happens, a D20 roll is made for both the attacker and the defender. If the attacker's roll is higher than the defenders, the attack succeeds and 2d12 damage is dealt to the defender's companion. If the defender's roll is higher than the attacker's, the attacker is stunned (unable to move or use active abilities not relating to proposal-making process) for one turn.**  
+Vote ends on 2019-08-03, on 9:36 AM Polish time.  
+Votes for: 2  
+Votes against: 0  
