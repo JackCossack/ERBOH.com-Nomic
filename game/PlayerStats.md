@@ -1,5 +1,5 @@
 **Kubby**  
-Points: 383  
+Points: 418  
 Position: (2,0)  
 Banned map hexes (due to rule 9): (3,-2), (2,-2), (2,-3), (1, -4), (2,-4), (3,-3), (4,-3), (3,-1)  
 Passed-proposals-in-a-row-count: 0  
@@ -12,27 +12,27 @@ Position: (-1,-1)
 Banned map hexes (due to rule 9): (0,0), (0,-1)
 
 **Juiz**  
-Points: 227  
+Points: 243  
 Position: (-3,3)  
 Banned map hexes (due to rule 9): (0,0), (-1,0), (-2, 0), (-1,1), (-2, 2), (-2, 3)
 Passed-proposals-in-a-row-count: 2  
 Companion: Carpet Guy (Carpet Monster, 120/120 HP)  
-Companion's point balance: 151
+Companion's point balance: 152
 
 **YellowNerd**  
-Points: 287  
+Points: 298  
 Position: (-1,-1)
 
 **Log**  
-Points: 416  
+Points: 430  
 Position: (-4, 4)  
 Banned map hexes (due to rule 9): (-3,-2), (-2,-3), (-1,-3), (-2, 2), (-2,-1), (-3, 0), (-3, 1), (-3, 2), (-3, 3), (-4, 3), (-5, 3), (-5, 4)
 Passed-proposals-in-a-row-count: 0  
 Companion: Mr. Molina (The Crow, 120/120 HP)  
-Companion's point balance: 40
+Companion's point balance: 46
 
 **Spars**  
-Points: 347  
+Points: 360  
 Position: (2,4)  
 Banned map hexes (due to rule 9): (0,0), (0,1), (0, 2), (0, 3), (1, 3), (2, 3)  
 Passed-proposals-in-a-row-count: 2  
