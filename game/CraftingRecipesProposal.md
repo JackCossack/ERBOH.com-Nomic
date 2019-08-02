@@ -1,5 +1,5 @@
 **Leftovers**  
-Recipe: 1 Bones + any 1 of Bones, Broken Glass, Dirt, Sand, Gravel  
+Recipe: 1 Bones + any 1 of Bones, Lava, Dirt, Sand, Gravel  
 Effect: Consumable item. When consumed, the player's companion gains (D20)% of HP needed for companion to regain full health (rounded down, minimum 1 HP).
 
 **Stone barrier**  
@@ -15,5 +15,5 @@ Recipe: 3 in total of Gold and Diamonds.
 Effect: When equipped, all damage to your companion is reduced by 5 for each damage source (to a minimum of 1 HP of damage). The effect does not stack with multiple copies.
 
 **Stone Club**  
-Recipe: 1 Bones, 1 Sand  
+Recipe: 1 Bones, 1 Cobblestone  
 Effect: When equipped, increase the damage done by you by 5.
