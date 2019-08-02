@@ -3,7 +3,7 @@ Points: 418
 Position: (3,1)  
 Banned map hexes (due to rule 9): (3,-2), (2,-2), (2,-3), (1, -4), (2,-4), (3,-3), (4,-3), (3,-1)  
 Passed-proposals-in-a-row-count: 0  
-Companion: Lil' Sammy (Noose Man, 120/120 HP)
+Companion: Lil' Sammy (Noose Man, 120/120 HP)  
 Companion's special ability used once.
 
 **Poles**  
