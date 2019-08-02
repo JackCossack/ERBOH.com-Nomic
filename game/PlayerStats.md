@@ -12,7 +12,7 @@ Position: (-1,-1)
 Banned map hexes (due to rule 9): (0,0), (0,-1)
 
 **Juiz**  
-Points: 279  
+Points: 254  
 Position: (-3,3)  
 Banned map hexes (due to rule 9): (0,0), (-1,0), (-2, 0), (-1,1), (-2, 2), (-2, 3)
 Passed-proposals-in-a-row-count: 0  
