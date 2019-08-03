@@ -7,7 +7,7 @@ Companion: Lil' Sammy (Noose Man, 120/120 HP)
 Companion's special ability used once.
 
 **Poles**  
-Points: 256  
+Points: 258  
 Position: (-1,-1)  
 Banned map hexes (due to rule 9): (0,0), (0,-1)
 
