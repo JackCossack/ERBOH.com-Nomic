@@ -1,7 +1,7 @@
 Proposals in voting:  
 
-Kubby's proposal:  
-**Every time a player gains a resource from mining, they obtain 1 unit of said resource, additionally to any other benefits. The player can use said resources to craft various items granting them various benefits. The player can craft an item at any time, provided they have resources specified in the item's recipe. The list of craftable items can be found in CraftingRecipes.md file on the game's repository.** (while it's in voting, it's called CraftingRecipesProposal.md)  
-Vote ends on 2019-08-04, on 9:10 AM Polish time.  
-Votes for: 1  
-Votes against: 0  
+Log's proposal:
+**If a player is in a situation where it is impossible to move without going on a banned space, they are allowed to move on banned spaces for the bare minimum possible moves it takes to get onto a non-banned space.**
+Vote ends on 2019-08-06, on 10:24 PM Polish time.
+Votes for: 3
+Votes against: 0
