@@ -1,7 +1,7 @@
 **Kubby**  
 Points: 489  
-Position: (3,1)  
-Banned map hexes (due to rule 9): (3,-2), (2,-2), (2,-3), (1, -4), (2,-4), (3,-3), (4,-3), (3,-1)  
+Position: (3,4)  
+Banned map hexes (due to rule 9): (3,-2), (2,-2), (2,-3), (1, -4), (2,-4), (3,-3), (4,-3), (3,-1), (2,0), (3,1), (2,2), (3,3)  
 Passed-proposals-in-a-row-count: 1  
 Companion: Lil' Sammy (Noose Man, 120/120 HP)  
 Equipment: 1 Iron
