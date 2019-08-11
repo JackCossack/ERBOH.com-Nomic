@@ -5,3 +5,9 @@ Kubby' proposal:
 Voting ends on 8:45 AM Polish time, on 2019-08-11.  
 Votes for: 3  
 Votes against: 1  
+
+Log's proposal:  
+**Poles shall be allowed to leave the game.**  
+Voting ends on 10:47 PM Polish time, on 2019-08-13.  
+Votes for: 1  
+Votes against: 1
