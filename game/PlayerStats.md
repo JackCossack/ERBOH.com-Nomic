@@ -24,12 +24,12 @@ Points: 408
 Position: (-1,-1)
 
 **Log**  
-Points: 619  
+Points: 635  
 Position: (2, 3)  
 Banned map hexes (due to rule 9): (-3,-2), (-2,-3), (-1,-3), (-2, 2), (-2,-1), (-3, 0), (-3, 1), (-3, 2), (-3, 3), (-4, 3), (-5, 3), (-5, 4), (-4, 4), (-3, 4), (-2, 4), (-1, 4), (0,3), (1,3)  
-Passed-proposals-in-a-row-count: 1  
+Passed-proposals-in-a-row-count: 2  
 Companion: Mr. Molina (The Crow, 120/120 HP)  
-Companion's point balance: 102
+Companion's point balance: 108
 
 **Spars**  
 Points: 552  
