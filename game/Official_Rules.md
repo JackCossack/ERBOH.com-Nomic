@@ -45,3 +45,4 @@
 30. If a player is in a situation where it is impossible to move without going on a banned space, they are allowed to move on banned spaces for the bare minimum possible moves it takes to get onto a non-banned space.
 31. If a player successfully quits the game in any capacity all of their current points are divided up to all of the remaining players evenly (as evenly as possible) with any leftover money going to the player in last place.
 32. Each player can either be active or inactive. Turns of inactive players are skipped. An active player becomes an inactive player if they fail to make the action(s) they have to make on their turn twice in a row. An inactive player can become an active player if they make any action or otherwise express their interest in returning to the game. With the enactment of this rule, Poles and YN shall be set as inactive players, and every other player as active players.
+33. Any player can quit by announcing the intent to do so.
