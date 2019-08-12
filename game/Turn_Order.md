@@ -5,6 +5,6 @@ Turn Order: *(Checkmark indicates current player, strike-through indicates inact
 - [ ] ~~Poles~~
 - [ ] Log
 - [ ] ~~YellowNerd~~
-- [x] Spars
-- [ ] Juiz
+- [ ] Spars
+- [x] Juiz
 - [ ] Kubby
