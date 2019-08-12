@@ -6,11 +6,6 @@ Passed-proposals-in-a-row-count: 2
 Companion: Lil' Sammy (Noose Man, 120/120 HP)  
 Equipment: 1 Iron, 1 Diamonds
 
-**Poles**  
-Points: 320  
-Position: (-1,-1)  
-Banned map hexes (due to rule 9): (0,0), (0,-1)
-
 **Juiz**  
 Points: 436  
 Position: (-3,3)  
