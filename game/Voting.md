@@ -13,5 +13,5 @@ to:
 Append the following to the google doc attached to the rule:  
 https://docs.google.com/document/d/1klJHkjy_lhveP-rDBSOCKRdgNukEUWc5nT5LpvPsOMM/edit  
 Voting ends on 11:30 AM, 2019-08-17 PL time.  
-Votes for: 2  
-Votes against: 2  
+Votes for: 3  
+Votes against: 1  
