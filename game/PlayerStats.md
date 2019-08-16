@@ -15,7 +15,7 @@ Companion: Carpet Guy (Carpet Monster, 120/120 HP)
 Companion's point balance: 160
 
 **YellowNerd**  
-Points: 511  
+Points: 514  
 Position: (-1,-1)
 
 **Log**  
